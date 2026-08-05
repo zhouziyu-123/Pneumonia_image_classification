@@ -53,8 +53,10 @@ Dataset characteristics
 │   └── Model_C_Improve_3Classifier.ipynb
 │
 ├── models/
-    ├── best_model.keras
-    └── *.h5
+│   ├── best_model.keras
+│   ├── *.h5
+│
+└── chest_xray/
 ```
 
 ## Model Architectures
